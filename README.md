@@ -1,7 +1,6 @@
 This is simple database orm for sqlite3
 
-```from sqlite_view import Sqlite3View
-
+```
 db = Sqlite3View("path/to/db.sqlite3")
 
 table = db.table_name
