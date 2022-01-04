@@ -1,8 +1,5 @@
 This is simple database orm for sqlite3
 
-
-
-
 ```from sqlite_view import Sqlite3View
 
 
