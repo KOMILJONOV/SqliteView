@@ -34,8 +34,8 @@ table.clear()
 
 #delete table
 table.delete()
-del db.table_name```
-
+del db.table_name
+```
 
 for bugs report me
 
